@@ -1,0 +1,6 @@
+{
+  "name": "TechCare Patient Dashboard",
+  "description": "Healthcare patient records dashboard converting Adobe XD template with live Coalition Technologies Patient Data API integration for Jessica Taylor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
